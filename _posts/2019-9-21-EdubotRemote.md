@@ -79,6 +79,9 @@ https://youtu.be/RDYw5fX_Zmo
 * Create new Xamarin.Forms application and name it EdubotRemote
 ![an image alt text]({{ site.baseurl }}/images/01/createnewproj.png)
 
+* Add Plugin.BLE nuget package on your solution
+![an image alt text]({{ site.baseurl }}/images/01/pluginble.png)
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
