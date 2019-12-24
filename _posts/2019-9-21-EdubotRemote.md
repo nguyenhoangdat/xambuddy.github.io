@@ -54,6 +54,10 @@ https://youtu.be/RDYw5fX_Zmo
 
 ![an image alt text]({{ site.baseurl }}/images/01/ardublock.png "ArduBlock Tool")
 
+* Create your first Edubot Program
+
+![an image alt text]({{ site.baseurl }}/images/01/sampleblocks.png "ArduBlock Tool")
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
