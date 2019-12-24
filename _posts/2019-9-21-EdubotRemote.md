@@ -58,6 +58,10 @@ https://youtu.be/RDYw5fX_Zmo
 
 ![an image alt text]({{ site.baseurl }}/images/01/sampleblocks.png "Sample")
 
+* Drag and drop the components and follow the program below
+
+![an image alt text]({{ site.baseurl }}/images/01/firstprogram.png "First Program")
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
