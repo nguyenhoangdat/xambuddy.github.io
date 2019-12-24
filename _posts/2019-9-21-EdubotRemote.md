@@ -36,6 +36,9 @@ https://youtu.be/RDYw5fX_Zmo
 ![an image alt text]({{ site.baseurl }}/images/01/ardublockpath.png "ArduBlock")
 
 ### 3. Open Arduio IDE and Set the Board and COM Port
+* Connect the Edubot to your PC
+![an image alt text]({{ site.baseurl }}/images/01/board.png "Board")
+
 * Set Board to Gizduino (mini) w/ ATmega168
 ![an image alt text]({{ site.baseurl }}/images/01/board.png "Board")
 
