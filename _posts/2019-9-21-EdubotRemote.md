@@ -62,6 +62,20 @@ https://youtu.be/RDYw5fX_Zmo
 
 ![an image alt text]({{ site.baseurl }}/images/01/firstprogram.png "First Program")
 
+* Click Upload to Arduino
+
+![an image alt text]({{ site.baseurl }}/images/01/clickupload.png "Upload")
+
+## You have created your first Edubot Program!
+
+
+## Now let's work on the most exciting part.
+
+## Create your Xamarin.Forms Application
+* If you don't have Visual Studio 2019, kindly follow the instructions from this link
+
+[Visual Studio Xamarin Installation](https://docs.microsoft.com/en-us/xamarin/get-started/installation/windows)
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
