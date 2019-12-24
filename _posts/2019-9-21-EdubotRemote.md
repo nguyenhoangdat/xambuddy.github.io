@@ -16,9 +16,17 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 ![an image alt text]({{ site.baseurl }}/images/edubot.jpg "Edubot")
 
+[E-Gizmo Edubot Link](https://www.e-gizmo.net/oc/index.php?route=product/product&product_id=1404).
+
 https://youtu.be/RDYw5fX_Zmo
 
-### Header 3
+## How to Start?
+### 1. Download the Arduino IDE and the ArduBlock tool
+[Download Arduino IDE](https://www.e-gizmo.net/oc/kits%20documents/ARDUINO%20IDE%20SOFTWARES/arduino-1.8.10%20-windows%20.exe).
+
+[Download ArduBlock Tool](https://www.e-gizmo.net/oc/kits%20documents/Kto12BOT/ardublock%20-%20031319.zip).
+
+### 2. Install Arduino IDE
 
 #### Header 4
 
