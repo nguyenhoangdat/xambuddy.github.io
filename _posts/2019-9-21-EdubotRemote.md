@@ -16,8 +16,6 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 [E-Gizmo Edubot Link](https://www.e-gizmo.net/oc/index.php?route=product/product&product_id=1404).
 
-https://youtu.be/RDYw5fX_Zmo
-
 ## How to Start?
 ### 1. Download the Arduino IDE and the ArduBlock tool
 [Download Arduino IDE](https://www.e-gizmo.net/oc/kits%20documents/ARDUINO%20IDE%20SOFTWARES/arduino-1.8.10%20-windows%20.exe).
@@ -90,3 +88,7 @@ https://youtu.be/RDYw5fX_Zmo
 ![an image alt text]({{ site.baseurl }}/images/01/edubotduinoss.png)
 
 * Upload it to your Edubot
+
+## And now you have it! Play now with your Edubot using your Android/iOS device
+
+<iframe width="420" height="315" src="https://youtu.be/RDYw5fX_Zmo" frameborder="0" allowfullscreen></iframe>
