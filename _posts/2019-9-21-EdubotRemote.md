@@ -88,3 +88,5 @@ https://youtu.be/RDYw5fX_Zmo
 ![an image alt text]({{ site.baseurl }}/images/01/edubotduino.png)
 
 ![an image alt text]({{ site.baseurl }}/images/01/edubotduinoss.png)
+
+* Upload it to your Edubot
