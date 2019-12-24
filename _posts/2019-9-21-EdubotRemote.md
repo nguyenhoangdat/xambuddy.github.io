@@ -14,6 +14,8 @@ It's a Mobile Robot created for Kto12 Learners
 
 Basic programmable mobile robot for young (and not so young) learners. Graphical programming style is used to program the robot - programming is done by assembling together a set of blocks, very much like playing on a jigsaw puzzle.
 
+({{ site.baseurl }}/images/edubot.jpg "Edubot")
+
 ### Header 3
 
 #### Header 4
