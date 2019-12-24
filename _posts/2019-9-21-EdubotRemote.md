@@ -66,6 +66,10 @@ https://youtu.be/RDYw5fX_Zmo
 
 ![an image alt text]({{ site.baseurl }}/images/01/clickupload.png "Upload")
 
+## You have created your first Edubot Program!
+
+
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
