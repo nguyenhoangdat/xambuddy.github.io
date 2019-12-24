@@ -16,6 +16,8 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 ![an image alt text]({{ site.baseurl }}/images/edubot.jpg "Edubot")
 
+[E-Gizmo Edubot Link](https://www.e-gizmo.net/oc/index.php?route=product/product&product_id=1404).
+
 https://youtu.be/RDYw5fX_Zmo
 
 ### Header 3
