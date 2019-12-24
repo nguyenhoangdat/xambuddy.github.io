@@ -76,7 +76,7 @@ https://youtu.be/RDYw5fX_Zmo
 
 [Visual Studio Xamarin Installation](https://docs.microsoft.com/en-us/xamarin/get-started/installation/windows)
 
-* Create new Xamarin.Forms application
+* Create new Xamarin.Forms application and name it EdubotRemote
 ![an image alt text]({{ site.baseurl }}/images/01/createnewproj.png)
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
