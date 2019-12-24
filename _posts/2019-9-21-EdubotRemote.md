@@ -16,6 +16,8 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 ![an image alt text]({{ site.baseurl }}/images/edubot.jpg "Edubot")
 
+https://youtu.be/RDYw5fX_Zmo
+
 ### Header 3
 
 #### Header 4
