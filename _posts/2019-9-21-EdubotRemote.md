@@ -5,11 +5,18 @@ published: true
 ---
 In this tutorial, I will discuss about integrating Xamarin.Forms to Edubot. 
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+[Edubot Remote Github Repository](https://github.com/xambuddy/EdubotRemote).
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+If you're interested in IoT (Internet of Things), this is the article for you.
 
-## Header 2 (H1 is reserved for post titles)##
+## What is Edubot?
+It's a Mobile Robot created for Kto12 Learners
+
+Basic programmable mobile robot for young (and not so young) learners. Graphical programming style is used to program the robot - programming is done by assembling together a set of blocks, very much like playing on a jigsaw puzzle.
+
+![an image alt text]({{ site.baseurl }}/images/edubot.jpg "Edubot")
+
+https://youtu.be/RDYw5fX_Zmo
 
 ### Header 3
 
