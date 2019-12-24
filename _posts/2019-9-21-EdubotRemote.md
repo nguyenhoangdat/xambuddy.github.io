@@ -82,3 +82,9 @@ https://youtu.be/RDYw5fX_Zmo
 * Make sure bluetooth is turned on when you run the application
 
 ![an image alt text]({{ site.baseurl }}/images/01/connect.jpg)
+
+* Open ArduBlock Tool and Open EdubotDuino.abp
+
+![an image alt text]({{ site.baseurl }}/images/01/edubotduino.png)
+
+![an image alt text]({{ site.baseurl }}/images/01/edubotduinoss.png)
