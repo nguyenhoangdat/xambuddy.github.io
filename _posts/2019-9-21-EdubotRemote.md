@@ -72,6 +72,9 @@ https://youtu.be/RDYw5fX_Zmo
 ## Now let's work on the most exciting part.
 
 ## Create your Xamarin.Forms Application
+* If you don't have Visual Studio 2019, kindly follow the instructions from this link
+
+[Visual Studio Xamarin Installation](https://docs.microsoft.com/en-us/xamarin/get-started/installation/windows)
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
