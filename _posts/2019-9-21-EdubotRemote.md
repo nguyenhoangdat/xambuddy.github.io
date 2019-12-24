@@ -62,6 +62,10 @@ https://youtu.be/RDYw5fX_Zmo
 
 ![an image alt text]({{ site.baseurl }}/images/01/firstprogram.png "First Program")
 
+* Click Upload to Arduino
+
+![an image alt text]({{ site.baseurl }}/images/01/clickupload.png "Upload")
+
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
