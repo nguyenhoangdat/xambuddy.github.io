@@ -81,6 +81,3 @@ https://youtu.be/RDYw5fX_Zmo
 
 * Add Plugin.BLE nuget package on your solution
 ![an image alt text]({{ site.baseurl }}/images/01/pluginble.png)
-
-----
-****
