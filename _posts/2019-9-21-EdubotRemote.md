@@ -76,7 +76,7 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 ![an image alt text]({{ site.baseurl }}/images/01/opensolution.png)
 
-* Connect your Android Device and run the application
+* Connect your Android Device to your PC and run the application
 
 * Make sure bluetooth is turned on when you run the application
 
@@ -88,7 +88,9 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 ![an image alt text]({{ site.baseurl }}/images/01/edubotduinoss.png)
 
-* Upload it to your Edubot
+* Connect your bluetooth mobule (AT-09) to your Edubot
+
+* Upload your program to your Edubot
 
 ## And now you have it! Play now with your Edubot using your Android/iOS device
 
