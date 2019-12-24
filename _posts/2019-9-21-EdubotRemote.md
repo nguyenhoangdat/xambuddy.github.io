@@ -26,6 +26,7 @@ https://youtu.be/RDYw5fX_Zmo
 
 [Download ArduBlock Tool](https://www.e-gizmo.net/oc/kits%20documents/Kto12BOT/ardublock%20-%20031319.zip).
 
+### 2. Install Arduino IDE
 
 #### Header 4
 
