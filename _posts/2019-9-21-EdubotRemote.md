@@ -5,8 +5,6 @@ published: true
 ---
 In this tutorial, I will discuss about integrating Xamarin.Forms to Edubot. 
 
-[Edubot Remote Github Repository](https://github.com/xambuddy/EdubotRemote).
-
 If you're interested in IoT (Internet of Things), this is the article for you.
 
 ## What is Edubot?
@@ -79,5 +77,5 @@ https://youtu.be/RDYw5fX_Zmo
 * Create new Xamarin.Forms application and name it EdubotRemote
 ![an image alt text]({{ site.baseurl }}/images/01/createnewproj.png)
 
-* Add Plugin.BLE nuget package on your solution
-![an image alt text]({{ site.baseurl }}/images/01/pluginble.png)
+* Add the following nuget packages
+![an image alt text]({{ site.baseurl }}/images/01/nugetpackages.png)
