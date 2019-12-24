@@ -35,6 +35,10 @@ https://youtu.be/RDYw5fX_Zmo
 * Extract the ArduBlock jar file and place it in tools folder
 ![an image alt text]({{ site.baseurl }}/images/01/ardublockpath.png "ArduBlock")
 
+### 3. Open Arduio IDE and Set the Board and COM Port
+* Set Board to Gizduino (mini) w/ ATmega168
+![an image alt text]({{ site.baseurl }}/images/01/board.png "Board")
+
 
 #### Header 4
 
