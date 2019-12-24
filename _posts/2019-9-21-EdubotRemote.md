@@ -50,7 +50,7 @@ https://youtu.be/RDYw5fX_Zmo
 
 
 ### Open ArduBlock
-* Tools> ArduBlock
+* Tools > ArduBlock
 
 ![an image alt text]({{ site.baseurl }}/images/01/ardublock.png "ArduBlock Tool")
 
