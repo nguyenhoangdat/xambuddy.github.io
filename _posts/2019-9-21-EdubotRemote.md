@@ -31,6 +31,7 @@ https://youtu.be/RDYw5fX_Zmo
 ![an image alt text]({{ site.baseurl }}/images/01/installarduino.png "Arduino IDE")
 
 -Go to Arduino IDE Installation Path
+
 -Extract the ArduBlock jar file and place it in tools folder
 ![an image alt text]({{ site.baseurl }}/images/01/ardublockpath.png "ArduBlock")
 
