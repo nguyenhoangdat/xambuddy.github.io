@@ -70,6 +70,7 @@ https://youtu.be/RDYw5fX_Zmo
 
 
 ## Now let's work on the most exciting part.
+
 ## Create your Xamarin.Forms Application
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
