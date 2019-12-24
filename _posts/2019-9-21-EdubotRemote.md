@@ -73,4 +73,12 @@ https://youtu.be/RDYw5fX_Zmo
 * Download the Xamarin.Forms Application below
 [EdubotRemote Github Repository](https://github.com/xambuddy/EdubotRemote)
 
-* Open Edubot
+* Open EdubotRemote.sln
+
+![an image alt text]({{ site.baseurl }}/images/01/opensolution.png)
+
+* Connect your Android Device and run the application
+
+* Make sure bluetooth is turned on when you run the application
+
+![an image alt text]({{ site.baseurl }}/images/01/connect.jpg)
