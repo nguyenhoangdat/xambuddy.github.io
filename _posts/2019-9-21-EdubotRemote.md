@@ -14,7 +14,7 @@ It's a Mobile Robot created for Kto12 Learners
 
 Basic programmable mobile robot for young (and not so young) learners. Graphical programming style is used to program the robot - programming is done by assembling together a set of blocks, very much like playing on a jigsaw puzzle.
 
-![an image alt text]({{ site.baseurl }}/images/edubot.jpg "Edubot")
+![an image alt text]({{ site.baseurl }}/images/01/edubot.jpg "Edubot")
 
 [E-Gizmo Edubot Link](https://www.e-gizmo.net/oc/index.php?route=product/product&product_id=1404).
 
@@ -27,6 +27,9 @@ https://youtu.be/RDYw5fX_Zmo
 [Download ArduBlock Tool](https://www.e-gizmo.net/oc/kits%20documents/Kto12BOT/ardublock%20-%20031319.zip).
 
 ### 2. Install Arduino IDE
+-After downloading the Arduino IDE, install it on your desired location
+![an image alt text]({{ site.baseurl }}/images/01/installarduino.png "Arduino IDE")
+
 
 #### Header 4
 
