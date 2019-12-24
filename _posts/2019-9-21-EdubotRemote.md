@@ -91,4 +91,4 @@ Basic programmable mobile robot for young (and not so young) learners. Graphical
 
 ## And now you have it! Play now with your Edubot using your Android/iOS device
 
-<iframe width="420" height="315" src="https://youtu.be/RDYw5fX_Zmo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RDYw5fX_Zmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
