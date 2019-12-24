@@ -5,8 +5,6 @@ published: true
 ---
 In this tutorial, I will discuss about integrating Xamarin.Forms to Edubot. 
 
-[Edubot Remote Github Repository](https://github.com/xambuddy/EdubotRemote).
-
 If you're interested in IoT (Internet of Things), this is the article for you.
 
 ## What is Edubot?
@@ -71,13 +69,8 @@ https://youtu.be/RDYw5fX_Zmo
 
 ## Now let's work on the most exciting part.
 
-## Create your Xamarin.Forms Application
-* If you don't have Visual Studio 2019, kindly follow the instructions from this link
+## Connect your Edubot with Xamarin.Forms Application (to be updated)
+* Download the Xamarin.Forms Application below
+[EdubotRemote Github Repository](https://github.com/xambuddy/EdubotRemote)
 
-[Visual Studio Xamarin Installation](https://docs.microsoft.com/en-us/xamarin/get-started/installation/windows)
-
-* Create new Xamarin.Forms application and name it EdubotRemote
-![an image alt text]({{ site.baseurl }}/images/01/createnewproj.png)
-
-* Add Plugin.BLE nuget package on your solution
-![an image alt text]({{ site.baseurl }}/images/01/pluginble.png)
+* Open Edubot
