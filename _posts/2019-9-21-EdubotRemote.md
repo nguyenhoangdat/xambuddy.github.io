@@ -27,12 +27,12 @@ https://youtu.be/RDYw5fX_Zmo
 [Download ArduBlock Tool](https://www.e-gizmo.net/oc/kits%20documents/Kto12BOT/ardublock%20-%20031319.zip).
 
 ### 2. Install Arduino IDE
--After downloading the Arduino IDE, install it on your desired location
+* After downloading the Arduino IDE, install it on your desired location
 ![an image alt text]({{ site.baseurl }}/images/01/installarduino.png "Arduino IDE")
 
--Go to Arduino IDE Installation Path
+* Go to Arduino IDE Installation Path
 
--Extract the ArduBlock jar file and place it in tools folder
+* Extract the ArduBlock jar file and place it in tools folder
 ![an image alt text]({{ site.baseurl }}/images/01/ardublockpath.png "ArduBlock")
 
 
